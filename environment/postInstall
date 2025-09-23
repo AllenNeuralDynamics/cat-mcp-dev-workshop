@@ -19,7 +19,7 @@ mkdir -p /.vscode/extensions
 code-server --extensions-dir=/.vscode/extensions --install-extension ms-toolsai.jupyter 
 code-server --extensions-dir=/.vscode/extensions --install-extension ms-python.python 
 code-server --extensions-dir=/.vscode/extensions --install-extension detachhead.basedpyright
-
+code-server --extensions-dir=/.vscode/extensions --install-extension saoudrizwan.claude-dev
 
 # download and install vscode extension from file
 # for extensions not available in the default open-vsx registry
